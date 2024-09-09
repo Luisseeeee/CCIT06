@@ -1,0 +1,51 @@
+#banner {
+    height: 100vh;
+    background-image:url(pink.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.btn {
+padding: 15px 30px;
+border-radius: 60px;
+font-size: 18px;
+font-weight: 900;
+transition: all .4s ease;
+}
+
+.btn-brand {
+    background-color: rgb(255, 0, 149);
+    color: #fff;
+    border: 3px solid #fff;
+}
+
+.btn-brand:hover {
+    background-color: transparent;
+    border: 3px solid rgb(255, 0, 149);
+    color: rgb(255, 0, 149);
+}
+
+section {
+    padding: 100px;
+}
+
+#about h2 {
+    font-size: 55px;
+    font-weight: 900;
+    color: rgb(255, 0, 149);
+}
+
+#services {
+    background-color: #fff;
+}
+
+#services h3 {
+    font-size: 55px;
+    font-weight: 900;
+    color: rgb(255, 0, 149);
+}
+
+.uwu {
+    width: 40%;
+}
