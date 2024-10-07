@@ -49,3 +49,12 @@ section {
 .uwu {
     width: 40%;
 }
+.card:hover{
+    background-color: rgb(233, 116, 198);
+    transition: all .4 ease;
+}
+.card:hover .card-title,
+.card:hover .card-text,
+.card:hover .btn-brand{
+    color: aliceblue;
+}
